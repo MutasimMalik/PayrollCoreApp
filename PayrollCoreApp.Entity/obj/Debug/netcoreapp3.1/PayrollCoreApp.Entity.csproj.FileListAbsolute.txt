@@ -1,0 +1,8 @@
+D:\PayrollCoreApp\PayrollCoreApp.Entity\bin\Debug\netcoreapp3.1\PayrollCoreApp.Entity.deps.json
+D:\PayrollCoreApp\PayrollCoreApp.Entity\bin\Debug\netcoreapp3.1\PayrollCoreApp.Entity.dll
+D:\PayrollCoreApp\PayrollCoreApp.Entity\bin\Debug\netcoreapp3.1\PayrollCoreApp.Entity.pdb
+D:\PayrollCoreApp\PayrollCoreApp.Entity\obj\Debug\netcoreapp3.1\PayrollCoreApp.Entity.csprojAssemblyReference.cache
+D:\PayrollCoreApp\PayrollCoreApp.Entity\obj\Debug\netcoreapp3.1\PayrollCoreApp.Entity.AssemblyInfoInputs.cache
+D:\PayrollCoreApp\PayrollCoreApp.Entity\obj\Debug\netcoreapp3.1\PayrollCoreApp.Entity.AssemblyInfo.cs
+D:\PayrollCoreApp\PayrollCoreApp.Entity\obj\Debug\netcoreapp3.1\PayrollCoreApp.Entity.dll
+D:\PayrollCoreApp\PayrollCoreApp.Entity\obj\Debug\netcoreapp3.1\PayrollCoreApp.Entity.pdb

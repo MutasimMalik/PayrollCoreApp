@@ -1,0 +1,13 @@
+D:\PayrollCoreApp\PayrollCoreApp.Services\obj\Debug\netcoreapp3.1\PayrollCoreApp.Services.csprojAssemblyReference.cache
+D:\PayrollCoreApp\PayrollCoreApp.Services\obj\Debug\netcoreapp3.1\PayrollCoreApp.Services.AssemblyInfoInputs.cache
+D:\PayrollCoreApp\PayrollCoreApp.Services\obj\Debug\netcoreapp3.1\PayrollCoreApp.Services.AssemblyInfo.cs
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Services.deps.json
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Services.dll
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Services.pdb
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Entity.dll
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Persistence.dll
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Entity.pdb
+D:\PayrollCoreApp\PayrollCoreApp.Services\bin\Debug\netcoreapp3.1\PayrollCoreApp.Persistence.pdb
+D:\PayrollCoreApp\PayrollCoreApp.Services\obj\Debug\netcoreapp3.1\PayrollCoreApp.Services.csproj.CopyComplete
+D:\PayrollCoreApp\PayrollCoreApp.Services\obj\Debug\netcoreapp3.1\PayrollCoreApp.Services.dll
+D:\PayrollCoreApp\PayrollCoreApp.Services\obj\Debug\netcoreapp3.1\PayrollCoreApp.Services.pdb
